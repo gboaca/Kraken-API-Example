@@ -28,8 +28,8 @@
                     require_once 'KrakenAPIClient.php';
 
                 // api credentials
-                $key = '+EBEIXQhRxCL1m9nZ4IKVuuPL8948sNGTibZVAX0NxCURi05TeY/ipPa';
-                $secret = 'jwG/IkQWCL712izv9kGYxkM9uRVUdzB0gW3liLoFcN4I3CDkIftSNlUNtzek2uPIBkLKGJ2wXImQFpm1XYhZjw==';
+                $key = 'your_pubic_key';
+                $secret = 'your_private_key';
 
                 // set params
                 $beta = true;
